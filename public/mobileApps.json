@@ -1,0 +1,434 @@
+[
+  {
+    "image": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA=w480-h960-rw",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 1,
+    "description": "Google Maps represents the pinnacle of digital navigation technology, offering users an unparalleled experience in exploring and navigating our world. The application provides real-time GPS tracking that ensures you always know your exact location and can plan routes accordingly. Turn-by-turn voice guidance makes driving stress-free, while comprehensive traffic updates help you avoid congestion and save valuable time. Beyond mere navigation, Google Maps serves as a complete local guide, helping you discover restaurants, hotels, attractions, and essential services with detailed information about operating hours, contact details, and user reviews. The seamless integration with other Google services creates a connected ecosystem where your searches, calendar appointments, and preferences work together to provide personalized recommendations. Whether you're walking through unfamiliar streets, driving to a new city, or using public transportation, Google Maps offers the most efficient routes tailored to your mode of travel. The offline maps feature ensures you never get lost even without internet connectivity, while street view and indoor maps provide visual confirmation of your destinations. For businesses, Google Maps offers powerful tools to reach customers and manage online presence. The continuous innovation in augmented reality navigation and environmental features makes Google Maps an indispensable tool for modern life, transforming how we explore and interact with the world around us.",
+    "size": "120MB",
+    "reviews": "24.8K",
+    "ratingAvg": 4.6,
+    "downloads": "8.2M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 9500 }
+    ]
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2016/10/22/00/15/spotify-1759471_1280.jpg",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 2,
+    "description": "Spotify has revolutionized how we experience music and audio content, creating a global platform that brings millions of tracks, albums, and podcasts to listeners worldwide. The service offers an incredibly diverse library spanning every genre imaginable, from classical masterpieces to the latest pop hits and underground indie discoveries. What sets Spotify apart is its sophisticated recommendation algorithm that studies your listening habits to create personalized playlists like Discover Weekly and Daily Mixes, constantly introducing you to new artists and songs that match your taste. The platform's social features allow you to see what friends are listening to, collaborate on shared playlists, and follow your favorite artists directly. For podcast lovers, Spotify provides an extensive catalog of shows covering every topic from true crime and comedy to educational content and news. The premium subscription unlocks higher quality audio, unlimited skips, and offline downloading, making it perfect for commuting or areas with poor connectivity. Spotify Connect seamlessly switches playback between devices, while the crossfade feature creates smooth transitions between tracks. The app also includes lyrics display, curated mood playlists, and year-end wrapped statistics that celebrate your personal listening journey. Whether you're working out, relaxing at home, or hosting a party, Spotify provides the perfect soundtrack for every moment of your life.",
+    "size": "85MB",
+    "reviews": "25.3K",
+    "ratingAvg": 4.5,
+    "downloads": "8.7M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 5800 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/19/42/d5/1942d5deb0f788e6228054cd92767ff6.jpg",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 3,
+    "description": "Instagram has transformed from a simple photo-sharing app into a comprehensive social media ecosystem that connects billions of users through visual storytelling. The platform empowers users to share moments from their lives through photos, videos, Stories that disappear after 24 hours, and longer-form Reels that compete in the short video space. Creative tools including filters, editing options, and augmented reality effects allow for endless customization and artistic expression. Instagram's Explore page uses advanced algorithms to surface content tailored to your interests, helping you discover new creators, brands, and communities. The direct messaging system supports private conversations and group chats, while features like polls and questions in Stories increase engagement with your audience. For businesses and creators, Instagram offers shopping features that turn posts into storefronts, professional analytics to track performance, and monetization options through badges and subscriptions. The platform has become essential for brand building, with influencer marketing creating new career opportunities worldwide. Instagram Live enables real-time broadcasting for events, Q&A sessions, and collaborations, while IGTV accommodates longer video content. The recent emphasis on Reels demonstrates Instagram's commitment to staying relevant in the evolving social media landscape. From documenting personal journeys to running global businesses, Instagram provides the tools and audience to share your story with the world, making it one of the most influential platforms in digital culture today.",
+    "size": "90MB",
+    "reviews": "26.1K",
+    "ratingAvg": 4.4,
+    "downloads": "8.9M",
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 8500 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/5d/63/c8/5d63c857404bab94c94a3f5b719628f2.jpg",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "id": 4,
+    "description": "TikTok has emerged as the defining social media platform of the current generation, revolutionizing content creation and consumption through its short-form video format. The app's intuitive interface makes it incredibly easy for users to create engaging videos ranging from 15 seconds to 10 minutes, complete with sophisticated editing tools, special effects, and a vast library of soundtracks. The 'For You' page serves as the heart of TikTok, using powerful machine learning algorithms to curate an endlessly personalized feed that understands your preferences better over time. This discovery mechanism has launched countless trends, dances, challenges, and memes that spread globally within hours. TikTok has become a launchpad for creators, providing opportunities for ordinary people to gain massive followings and even build careers through the Creator Fund and brand partnerships. The platform spans every conceivable interest from comedy sketches and cooking tutorials to educational content and social activism. Duets and Stitches encourage collaborative creation, while live streaming enables real-time interaction between creators and their audiences. TikTok Shop integrates e-commerce directly into the viewing experience, allowing seamless product discovery and purchases. The platform has significantly influenced music charts, fashion trends, and pop culture while giving voice to diverse communities and perspectives. Its impact on digital entertainment is undeniable, creating a new paradigm for content creation that prioritizes authenticity, creativity, and community engagement over polished production values.",
+    "size": "110MB",
+    "reviews": "25.7K",
+    "ratingAvg": 4.3,
+    "downloads": "8.4M",
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 10500 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/e6/85/55/e685555d3879dd2407d668086ee7208a.jpg",
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 5,
+    "description": "WhatsApp has fundamentally changed global communication by providing a fast, secure, and reliable messaging platform that connects billions of users worldwide. The application's foundation is built on end-to-end encryption, ensuring that only you and the person you're communicating with can read what's sent, with not even WhatsApp able to access your messages. This commitment to privacy extends to all forms of communication including text messages, voice calls, video calls, and file transfers. WhatsApp supports group chats with up to 1024 participants, making it ideal for family conversations, work collaborations, and community organizations. The Status feature allows sharing photos, videos, and text updates that disappear after 24 hours, similar to Stories on other platforms. Voice messaging provides a convenient alternative to typing, while document sharing supports files up to 2GB in size. WhatsApp Web and Desktop enable seamless synchronization between your phone and computer, allowing you to continue conversations on larger screens. For businesses, WhatsApp Business offers verified profiles, automated responses, and catalog displays to facilitate customer communication and sales. The platform operates efficiently even on slower internet connections, making it accessible in regions with limited infrastructure. Regular updates introduce new features like disappearing messages, view once media, and shopping integrations while maintaining the simple, ad-free experience that users trust. WhatsApp's minimalistic design, cross-platform compatibility, and unwavering focus on security have made it the default communication tool for personal and professional use across countless countries and cultures.",
+    "size": "65MB",
+    "reviews": "27.3K",
+    "ratingAvg": 4.7,
+    "downloads": "8.6M",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 18500 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/85/c8/b7/85c8b7e1e4a88a5186d14299e506db1c.jpg",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 6,
+    "description": "YouTube stands as the world's largest video platform, an unparalleled digital universe where over 2 billion logged-in monthly users consume content across every imaginable category. The platform has democratized video creation, enabling anyone with a camera and internet connection to share their voice with a global audience. From professional production companies to individual creators in their bedrooms, YouTube hosts an incredible diversity of content including educational tutorials, music videos, video blogs, documentary series, live streams, and entertainment shows. The recommendation algorithm continuously learns from your viewing habits to suggest videos that match your interests, creating a personalized experience that keeps users engaged for hours. YouTube Premium offers an ad-free experience with background play and offline downloads, while YouTube Music provides a dedicated streaming service. For creators, the Partner Program enables monetization through ads, channel memberships, Super Chat, and merchandise integration. The platform has launched countless careers and created entirely new genres of entertainment, from unboxing videos and gaming streams to ASMR and educational content. YouTube Kids provides a safer environment for younger audiences, while YouTube TV offers live television streaming. The comment sections foster community discussion, and the subscription model allows users to build their own customized channels of content. With support for 4K and even 8K video playback, 360-degree videos, and virtual reality content, YouTube continues to push the boundaries of what's possible in online video, serving as both an archive of human culture and a window into emerging trends and creativity.",
+    "size": "140MB",
+    "reviews": "25.9K",
+    "ratingAvg": 4.5,
+    "downloads": "8.3M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 1800 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/aa/d3/1c/aad31c8b2ca6eca24bcd705c4adea0bc.jpg",
+    "title": "Twitter",
+    "companyName": "X Corp.",
+    "id": 7,
+    "description": "X, formerly known as Twitter, has established itself as the digital public square where real-time conversations shape global discourse. The platform's core functionality revolves around short messages (originally 140 characters, now 280 with expanded options) that enable rapid information sharing and discussion. What makes X unique is its chronological timeline and breaking news capability, often serving as the first source for developing stories, emergencies, and live events. Hashtags organize conversations around topics, while trending topics provide a pulse on what the world is discussing at any given moment. The retweet function allows content to spread virally, and quote tweets enable adding commentary to shared posts. X Spaces introduces live audio conversations, creating virtual rooms where users can participate in real-time discussions. The platform has become essential for journalists, politicians, celebrities, and activists to communicate directly with their audiences without media filtration. Communities feature allows users to create focused groups around specific interests, while Lists help organize accounts into customizable timelines. X Premium (formerly Twitter Blue) offers additional features like edit tweet, longer videos, and reduced ads. The platform's open nature makes it a valuable tool for customer service, with many companies maintaining active support channels. From political revolutions to cultural movements, X has repeatedly proven its significance as a platform that amplifies voices, facilitates organization, and captures the zeitgeist of our times through the collective conversation of its global user base.",
+    "size": "75MB",
+    "reviews": "24.5K",
+    "ratingAvg": 4.0,
+    "downloads": "8.1M",
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 1700 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 2100 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/1200x/06/ca/21/06ca212c93dfa745548df4b2a3221d22.jpg",
+    "title": "Zoom Cloud Meetings",
+    "companyName": "Zoom Video Communications",
+    "id": 8,
+    "description": "Zoom transformed from a business communication tool into a household name during the pandemic, revolutionizing how people connect remotely across personal and professional contexts. The platform's reliability and ease of use made it the go-to solution for virtual meetings, online classes, family gatherings, and social events when physical presence wasn't possible. Zoom's intuitive interface allows participants to join meetings with a single click, without requiring accounts, making it accessible for even the least tech-savvy users. The gallery view and speaker view options provide flexible visual layouts, while virtual backgrounds allow users to maintain privacy or add creative flair to their video presence. Breakout rooms enable small group discussions within larger meetings, perfect for classrooms, workshops, and corporate training sessions. Screen sharing capabilities extend to specific applications or entire desktops, with annotation tools for collaborative markups. The recording feature captures meetings for later reference or for those who couldn't attend live. Zoom's integration with calendar systems streamlines scheduling, and the waiting room feature gives hosts control over participant admission. For larger audiences, Zoom Webinar supports up to 50,000 view-only participants with Q&A and polling features. The platform continues to innovate with features like end-to-end encryption for enhanced security, live transcription, translation services, and immersive view that places participants in a shared virtual environment. Zoom's impact extends beyond mere video calls—it has fundamentally changed workplace culture, educational delivery, healthcare telemedicine, and how we maintain social connections in an increasingly digital world.",
+    "size": "100MB",
+    "reviews": "23.8K",
+    "ratingAvg": 4.3,
+    "downloads": "7.9M",
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 2700 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/4a/b5/9b/4ab59bf6437538d0d99264293ef3c479.jpg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 9,
+    "description": "Snapchat pioneered the concept of ephemeral messaging, creating a new paradigm for digital communication centered on authenticity and impermanence. The app's defining feature—disappearing messages and Stories—fosters a more genuine form of sharing where users feel comfortable posting unpolished, in-the-moment content without the pressure of building a permanent digital footprint. The Snap Map allows friends to see each other's locations (with privacy controls), making real-world meetups easier to coordinate. Snapchat's augmented reality lenses represent some of the most advanced consumer AR technology available, transforming users' appearances, environments, and even enabling try-on experiences for shopping. The Spotlight feature surfaces the most entertaining Snaps from the community, creating a TikTok-like discovery feed. Memories serves as a private photo vault for saving special Snaps, while Our Story curates public Snaps from events and locations. The Chat function supports text, video, and audio messages, with Bitmoji integration bringing personalized avatars into conversations. For creators and businesses, Snapchat offers Public Profiles, analytics, and advertising options to reach the platform's predominantly Gen Z and Millennial audience. The platform has expanded into original content through Snap Originals and Discover partners including major media companies and influencers. Snap Games provide lightweight multiplayer experiences within the app, while Scan uses computer vision to identify objects, plants, dogs, wines, and solve math problems. Snapchat's focus on privacy, creativity, and real friendship connections rather than vanity metrics has cultivated a loyal user base that appreciates the platform's unique approach to social networking and self-expression.",
+    "size": "80MB",
+    "reviews": "26.4K",
+    "ratingAvg": 4.2,
+    "downloads": "8.5M",
+    "ratings": [
+      { "name": "1 star", "count": 1300 },
+      { "name": "2 star", "count": 1600 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 6100 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/27/fe/a0/27fea0a56650ee92af82eb6a9a1d2487.jpg",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation",
+    "id": 10,
+    "description": "LinkedIn has evolved from a digital resume repository into the world's premier professional network, serving as an indispensable platform for career development, business networking, and industry knowledge sharing. With over 900 million members across 200 countries, LinkedIn creates economic opportunity by connecting talent with opportunity at an unprecedented scale. The platform allows users to build comprehensive professional profiles showcasing their experience, skills, education, and accomplishments, effectively serving as living documents that grow throughout one's career. The job search functionality includes sophisticated filters, salary insights, and application tracking, while the 'Open to Work' feature discreetly signals availability to recruiters. LinkedIn Learning offers thousands of expert-led courses to develop professional skills, with certifications that can be displayed on profiles. The feed provides a curated stream of industry news, thought leadership articles, and updates from connections, while Company Pages allow organizations to share updates, post jobs, and build their employer brand. LinkedIn Groups facilitate niche discussions around specific professions, interests, and industries, creating valuable communities of practice. Sales Navigator and Recruiter tools provide powerful platforms for business development and talent acquisition professionals. The publishing platform enables members to share long-form content and establish themselves as subject matter experts. LinkedIn's algorithm prioritizes professional content and meaningful interactions, creating a environment focused on career and business rather than social entertainment. From recent graduates entering the workforce to C-suite executives managing their professional reputation, LinkedIn provides the tools and network to navigate every stage of one's career journey while staying informed about industry trends and opportunities.",
+    "size": "95MB",
+    "reviews": "24.2K",
+    "ratingAvg": 4.4,
+    "downloads": "7.8M",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 2300 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/b1/2c/21/b12c21e948842024cb33f1ec5f813924.jpg",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 11,
+    "description": "Telegram has carved out a unique position in the messaging landscape by prioritizing speed, security, and feature-rich functionality that appeals to power users and privacy-conscious individuals. The platform's cloud-based architecture ensures that messages, photos, videos, and files are seamlessly synchronized across all devices—phones, tablets, and computers—without requiring manual transfers. Telegram's secret chats offer end-to-end encryption with self-destruct timers and prevent forwarding or screenshotting, while regular cloud chats provide convenience with optional additional security layers. The platform supports group chats with up to 200,000 members, far exceeding competitors' limits, making it ideal for large communities, fan bases, and organizational communication. Channels function as broadcast tools for one-to-many communication, with some amassing millions of subscribers for news, entertainment, and educational content. Telegram's file sharing capability supports documents up to 2GB in size, making it practical for sharing high-quality media and work files. The bot platform enables automated interactions, games, and integrations that extend Telegram's functionality far beyond basic messaging. Features like editable messages, scheduled messages, and extensive customization options provide user control rarely seen in messaging apps. Telegram's open API has fostered a vibrant ecosystem of third-party clients and tools. The platform has gained particular popularity in regions where privacy concerns are paramount and among communities that value free speech and resistance to censorship. Despite its advanced features, Telegram maintains a clean, intuitive interface that remains accessible to casual users while offering the depth that enthusiasts appreciate. Regular updates continue to introduce innovative features while maintaining the core principles of speed and security that define the Telegram experience.",
+    "size": "60MB",
+    "reviews": "25.6K",
+    "ratingAvg": 4.6,
+    "downloads": "8.2M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5200 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/2c/ea/3e/2cea3e7494f8f6f763216b708c21f4f2.jpg",
+    "title": "Uber",
+    "companyName": "Uber Technologies, Inc.",
+    "id": 12,
+    "description": "Uber Eats has transformed the food delivery landscape by leveraging Uber's sophisticated logistics platform to create a seamless connection between hungry customers and local restaurants. The service offers an extensive selection of dining options ranging from neighborhood favorites to premium establishments that previously didn't offer delivery. The intuitive app interface allows users to browse menus, customize orders with special instructions, and track their delivery in real-time from restaurant preparation to courier transportation. The live map shows the driver's location and provides accurate estimated arrival times, reducing uncertainty about when food will arrive. Uber Eats Pass subscription offers $0 delivery fees and reduced service charges for regular users, while group ordering simplifies meal coordination for offices, families, and events. The platform accommodates various dietary preferences with filters for vegan, vegetarian, gluten-free, and other options. Beyond restaurant meals, Uber Eats has expanded into grocery delivery, convenience store items, alcohol (where legally permitted), and pharmacy products, becoming a comprehensive delivery solution for immediate needs. For restaurants, Uber Eats provides valuable exposure to new customers, detailed analytics about ordering patterns, and marketing tools to promote special offers. The rating system maintains quality standards for both restaurants and delivery partners, creating accountability throughout the experience. Scheduled ordering allows planning meals in advance, while favorite restaurants and previous orders make reordering convenient. Uber Eats has not only changed how people access restaurant-quality food but has also created economic opportunities for delivery partners and helped restaurants expand their reach beyond their physical locations, particularly valuable during periods when dine-in service was restricted.",
+    "size": "85MB",
+    "reviews": "23.5K",
+    "ratingAvg": 4.5,
+    "downloads": "7.6M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 2600 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/1200x/72/a0/50/72a0500ff35991d147a6b48e4bffc721.jpg",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 13,
+    "description": "Netflix pioneered the streaming revolution, fundamentally altering how global audiences consume entertainment and reshaping the entire television and film industry in the process. What began as a DVD-by-mail service has transformed into a content behemoth producing and distributing thousands of original titles alongside licensed content from virtually every major studio. Netflix's sophisticated recommendation algorithm analyzes viewing patterns to surface personalized suggestions, creating a unique experience for each subscriber across genres, languages, and formats. The platform's original programming spans award-winning dramas, innovative documentaries, stand-up comedy specials, animated series, and reality shows, with particular success in non-English language content that crosses cultural boundaries. The download feature enables offline viewing for travel or limited connectivity situations, while multiple profiles allow household members to maintain separate watch histories and recommendations. Netflix's adaptive streaming technology automatically adjusts video quality based on internet speed, ensuring smooth playback across conditions. The platform has become a cultural force, creating shared viewing experiences through binge-worthy series that generate global conversations and memes. For creators, Netflix offers unprecedented creative freedom and global distribution, while data-driven insights help greenlight projects with audience appeal. The mobile app provides the full Netflix experience with intuitive navigation, parental controls, and accessibility features including audio description and closed captions in multiple languages. As competition in the streaming space intensifies, Netflix continues to innovate with interactive specials like Black Mirror: Bandersnatch, mobile-only plans in emerging markets, and gaming offerings. Netflix's impact extends beyond entertainment—it has changed viewing habits, influenced storytelling formats, and demonstrated the viability of direct-to-consumer content distribution at a global scale.",
+    "size": "130MB",
+    "reviews": "26.8K",
+    "ratingAvg": 4.4,
+    "downloads": "8.7M",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1050 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/1200x/70/b6/3d/70b63decd76c2d806612500c2a78a045.jpg",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 14,
+    "description": "Pinterest serves as a visual discovery engine that bridges the gap between inspiration and action, helping users plan and execute projects across every aspect of their lives. Unlike social media platforms focused on status updates or viral content, Pinterest centers on personal aspirations—what users want to do, make, buy, or become. The platform's core functionality revolves around Pins (visual bookmarks) that users save to customizable Boards organized by theme, project, or interest. The home feed displays a endlessly scrollable collection of Pins tailored to each user's expressed interests and engagement history, while search functionality powered by visual recognition technology can identify objects within images even without text descriptions. Pinterest has become the go-to resource for planning weddings, home renovations, recipes, fashion outfits, travel itineraries, and creative crafts. The Try On feature uses augmented reality to visualize how makeup products would look, while shopping features enable direct purchasing from Pins with price comparisons and availability information. Idea Pins allow creators to share multi-page visual stories with video, audio, and detailed instructions. Pinterest Predicts uses trend forecasting to identify emerging interests before they become mainstream, valuable for both users and businesses. The platform maintains a positive, aspirational environment largely free from the social pressure and political debates common on other networks. For businesses, Pinterest offers advertising solutions that reach users in a planning mindset, with higher intent to purchase than many other platforms. From DIY enthusiasts to professional designers, Pinterest provides the visual inspiration and practical tools to turn ideas into reality, making it an indispensable tool for creative planning and personal project management.",
+    "size": "70MB",
+    "reviews": "24.9K",
+    "ratingAvg": 4.6,
+    "downloads": "8.0M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 2200 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/fa/16/b8/fa16b892512b3df516211c68fc489134.jpg",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 15,
+    "description": "The Amazon Shopping app brings the world's largest online marketplace to mobile devices, offering unparalleled convenience for product discovery, purchasing, and order management. The app condenses Amazon's vast ecosystem into an intuitive mobile experience that includes hundreds of millions of products across countless categories. Visual search technology allows users to photograph items they see in the real world and find similar products on Amazon, while barcode scanning provides instant price and review information for physical products. The voice shopping capability through Alexa integration enables hands-free ordering, and the augmented reality view lets users visualize how products would look in their space before purchasing. Amazon Prime members enjoy free fast shipping, exclusive deals, Prime Video, Music, and Reading benefits directly through the app. The personalized recommendation engine suggests products based on browsing and purchase history, while Wish Lists help organize potential future purchases. The app provides real-time order tracking with delivery notifications, easy returns initiation, and customer service access. Amazon's streamlined checkout process with saved payment methods and addresses makes purchasing nearly instantaneous. Beyond retail, the app integrates with Amazon Fresh for grocery delivery, Amazon Pharmacy for prescription medications, and Amazon Home Services for local professional assistance. The Today's Deals section and Lightning Offers create a sense of urgency and value, while customer reviews and Q&A sections provide social proof and detailed product information. For small businesses, the Amazon Seller app complements the shopping experience by enabling merchants to manage their Amazon operations remotely. The Amazon Shopping app has fundamentally changed consumer behavior, making impulse purchases, price comparisons, and reliable delivery expectations the norm rather than the exception in modern retail.",
+    "size": "120MB",
+    "reviews": "27.1K",
+    "ratingAvg": 4.5,
+    "downloads": "8.8M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 1490 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/1200x/6f/41/ad/6f41ad534e74b6f75dbd16be64ce55b2.jpg",
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd",
+    "id": 16,
+    "description": "Canva has democratized graphic design by making professional-quality visual creation accessible to everyone, regardless of technical skill or design background. The platform offers an extensive library of templates for social media graphics, presentations, posters, documents, marketing materials, and more, all customizable through an intuitive drag-and-drop interface. What sets Canva apart is its balance of simplicity and power—beginners can create polished designs in minutes using pre-made layouts, while advanced users appreciate the fine control over elements, brand kit consistency, and collaborative features. The extensive element library includes millions of photos, illustrations, icons, and shapes, with advanced search and filtering to find the perfect assets. Typography tools offer hundreds of font pairings with precise spacing controls, while the color palette generator extracts harmonious schemes from uploaded images. Canva's collaboration features allow teams to work simultaneously on designs with comment threads, version history, and approval workflows. The platform supports animation effects, video editing, and multimedia presentations with embedded audio. For organizations, Canva for Teams provides brand control, template locking, and streamlined asset management. The mobile app maintains full functionality with touch-optimized controls, making design possible anywhere. Canva Print offers professional printing with direct integration to the design process. Recent expansions include website building, whiteboarding for brainstorming, and data visualization tools. The platform has become essential for small businesses, educators, nonprofits, and content creators who need to produce high-quality visuals without the budget for professional designers or complex software. By lowering the barrier to entry for graphic design, Canva has empowered millions to communicate more effectively through visual media, transforming how organizations and individuals approach design as both a practical skill and creative outlet.",
+    "size": "95MB",
+    "reviews": "24.7K",
+    "ratingAvg": 4.8,
+    "downloads": "7.7M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 3800 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/64/50/31/6450315c941b8992f72e52231585139a.jpg",
+    "title": "Duolingo",
+    "companyName": "Duolingo, Inc.",
+    "id": 17,
+    "description": "Duolingo has revolutionized language learning by transforming education into an engaging, gamified experience that makes acquiring new languages accessible and enjoyable for millions worldwide. The platform offers comprehensive courses in over 40 languages, from widely spoken ones like Spanish, French, and Mandarin to endangered languages and constructed languages like High Valyrian. Each course is structured into skill trees with progressively challenging lessons that cover vocabulary, grammar, listening, speaking, and reading comprehension. The app's signature gamification elements include experience points, streaks that encourage daily practice, leaderboards for friendly competition, and Lingots (the in-app currency) that can be used to purchase bonus content. The speaking exercises use speech recognition technology to provide instant feedback on pronunciation, while stories offer immersive reading and listening comprehension practice. Duolingo for Schools provides educators with classroom tools and progress tracking, making it valuable for formal education settings. The platform's adaptive learning algorithm identifies areas where users struggle and provides targeted practice to reinforce those concepts. Beyond the core language courses, Duolingo offers Duolingo ABC for children learning to read and Duolingo Math for elementary mathematics. The recently introduced Duolingo Max incorporates AI-powered features like Explain My Answer for detailed feedback and Roleplay for conversational practice. What sets Duolingo apart is its commitment to making quality education free and accessible, supported by a playful approach that includes its famous owl mascot and humorous error messages. The platform has created a global community of language learners who support each other through discussion forums and social features, proving that consistent, bite-sized practice can lead to meaningful language acquisition over time.",
+    "size": "65MB",
+    "reviews": "25.2K",
+    "ratingAvg": 4.7,
+    "downloads": "8.4M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 5700 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/a0/eb/a0/a0eba0da29ed67b2dfbcdd5ac98c0c98.jpg",
+    "title": "PayPal",
+    "companyName": "PayPal, Inc.",
+    "id": 18,
+    "description": "PayPal pioneered digital payments and has maintained its position as one of the world's most trusted online financial platforms, enabling secure money transfers, online shopping, and business transactions across borders. The service allows users to link bank accounts, credit cards, and debit cards to create a centralized digital wallet that can be used for sending money to friends and family, paying for online purchases, and receiving payments for goods and services. PayPal's buyer protection program provides peace of mind by covering eligible purchases if items aren't received or don't match their description, while seller protection helps businesses against unauthorized transactions and claims. The platform supports transactions in over 200 markets and 25 currencies, with transparent exchange rates for international transfers. PayPal's One Touch feature enables seamless checkout across participating merchants without repeatedly entering login credentials. For businesses, PayPal offers comprehensive payment solutions including invoicing tools, payment buttons for websites, and integration with major e-commerce platforms. The PayPal Business Debit Mastercard provides immediate access to funds, while working capital loans offer flexible financing based on sales history. The app includes features for splitting bills, requesting money from contacts, and generating QR codes for in-person payments. Cryptocurrency support allows users to buy, sell, and hold Bitcoin, Ethereum, Litecoin, and Bitcoin Cash directly within the platform. PayPal's extensive merchant acceptance makes it one of the most widely available payment options online, while its robust security measures including encryption, fraud monitoring, and two-factor authentication protect users' financial information. From individual freelancers to multinational corporations, PayPal provides the financial infrastructure that enables commerce in the digital age, bridging the gap between traditional banking and the evolving needs of online transactions.",
+    "size": "80MB",
+    "reviews": "23.9K",
+    "ratingAvg": 4.3,
+    "downloads": "7.5M",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 1700 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/1200x/89/3d/0d/893d0d111ed3e5f68cfd0814a2a59c64.jpg",
+    "title": "Shazam",
+    "companyName": "Apple Inc.",
+    "id": 19,
+    "description": "Shazam performs the technological magic of identifying music from short audio samples, solving the universal frustration of hearing an unknown song and wondering what it's called. The app uses sophisticated audio fingerprinting technology that can recognize music playing in various environments—through phone speakers in a crowded cafe, from car radios, or even through headphones—often identifying tracks within seconds. Beyond simple identification, Shazam has evolved into a comprehensive music discovery platform that provides lyrics in real-time synchronization with the playing song, artist biographies, music videos, and links to streaming services like Apple Music and Spotify for immediate listening. The Auto Shazam feature runs in the background, automatically identifying songs throughout the day without requiring manual activation. The app's history log creates a personal archive of all identified tracks, which can be organized into playlists or shared across social media platforms. Shazam Charts showcase trending songs globally and by country, while the Discover tab suggests new music based on identification history. The platform's integration with Siri allows for voice-activated song recognition, and the camera Shazam feature can identify songs playing in videos or TV shows by pointing the device at the screen. Since its acquisition by Apple, Shazam has become deeply integrated into the iOS ecosystem while remaining available across Android and other platforms. The technology behind Shazam has been licensed for various applications beyond consumer music identification, including television advertising tracking and content monitoring. For music lovers, Shazam has become an indispensable tool that not only satisfies curiosity about unknown songs but also serves as a gateway to discovering new artists and expanding musical horizons, transforming random audio encounters into meaningful musical connections.",
+    "size": "50MB",
+    "reviews": "24.3K",
+    "ratingAvg": 4.8,
+    "downloads": "8.3M",
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 2850 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/1200x/a3/7d/a9/a37da961c7dbc2706c87575b3c6fa195.jpg",
+    "title": "Dropbox",
+    "companyName": "Dropbox, Inc.",
+    "id": 20,
+    "description": "Dropbox simplified cloud storage for the masses, creating an intuitive platform that allows users to store, sync, and share files across all their devices with remarkable ease. The service works by creating a special folder on each device that automatically syncs with Dropbox's cloud servers and all other linked devices, ensuring that the latest version of every file is available everywhere. This seamless synchronization eliminates the need for manual file transfers, email attachments, or USB drives, making collaboration and access dramatically more efficient. Dropbox's file recovery and version history features provide safety nets by preserving deleted files for 30 days (longer for paid plans) and maintaining version history for 180 days, allowing users to revert to previous iterations of documents. The platform supports file requests, allowing anyone to upload files to your Dropbox even without an account, ideal for collecting materials from clients or team members. Dropbox Paper serves as a collaborative workspace that integrates notes, tasks, databases, and multimedia content in a flexible document format. The mobile app includes document scanning capabilities that use the camera to create high-quality PDFs from physical documents, with automatic edge detection and enhancement. For businesses, Dropbox Professional and Business tiers offer advanced features like smart sync (which shows all files while downloading only those you open), team management tools, extensive admin controls, and integration with countless third-party apps through a robust API. The Vault feature provides extra security for sensitive documents with separate passcode protection. Dropbox Transfer enables sending large files that are too big for email attachments, with customizable expiration dates and password protection. By abstracting the complexity of cloud infrastructure behind a simple folder metaphor, Dropbox made cloud storage accessible to non-technical users while providing the robustness that professionals require.",
+    "size": "90MB",
+    "reviews": "23.6K",
+    "ratingAvg": 4.4,
+    "downloads": "7.4M",
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 2050 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/1200x/b5/d4/ce/b5d4ce10a744861ffd3314d20d116976.jpg",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 21,
+    "description": "Discord began as a communication platform for gamers but has evolved into a comprehensive community hub that serves diverse interests from study groups and hobby clubs to professional teams and content creator fandoms. The platform's core organizational structure revolves around servers—dedicated spaces that can be organized into text channels for asynchronous discussions and voice channels for real-time conversation. Server administrators have extensive customization options including roles with specific permissions, automated moderation bots, and integrated widgets for websites. Discord's voice communication features include crystal-clear audio quality, noise suppression, echo cancellation, and spatial audio for immersive gaming experiences. Video calls support screen sharing, making Discord valuable for remote collaboration, tutoring, and presentations. The platform's robust API has fostered an extensive ecosystem of bots that automate moderation, play music, run games, and add countless other functionalities to servers. Discord's nitro subscription enhances the experience with higher quality screen sharing, larger file uploads, custom emojis, and server boosting for improved audio quality and extra features. The platform places strong emphasis on user safety with comprehensive moderation tools, content filtering, and privacy settings that give users control over their experience. Community servers can be discovered through Discord's server discovery feature, which categorizes public communities by interest. The recently introduced forums channel type provides threaded discussions better suited for organized topic-based conversations. For content creators, Discord offers subscription features that allow monetization through exclusive server access. What makes Discord uniquely successful is its ability to scale from intimate friend groups to massive communities with thousands of members while maintaining a sense of connection and belonging, creating digital third places where people can gather around shared interests and build meaningful relationships.",
+    "size": "120MB",
+    "reviews": "26.5K",
+    "ratingAvg": 4.6,
+    "downloads": "8.6M",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 7200 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/72/b7/fc/72b7fc647fa82c4c54a474e115d2e9ae.jpg",
+    "title": "Reddit",
+    "companyName": "Reddit, Inc.",
+    "id": 22,
+    "description": "Reddit functions as the front page of the internet, a massive network of communities where users share, discuss, and vote on content across virtually every imaginable topic. The platform's structure is built around subreddits—user-created and moderated communities dedicated to specific subjects, from broad interests like news and technology to hyper-specific niches like particular video games, TV shows, or hobbies. Each subreddit develops its own culture, rules, and moderation standards, creating diverse environments tailored to different types of discussion. The voting system allows users to upvote content they find valuable and downvote content that doesn't contribute, collectively curating what becomes visible on the platform. Reddit's AMA (Ask Me Anything) format has hosted conversations with celebrities, experts, politicians, and remarkable ordinary people, creating unprecedented access to public figures. The platform serves as an invaluable real-time information source during breaking news events, often providing ground-level perspectives before traditional media coverage. Reddit Gold and Premium offerings enhance the experience with ad-free browsing, exclusive features, and recognition for valued contributions. The recently introduced Reddit Talk enables live audio conversations similar to Clubhouse, while Reddit NFTs represent the platform's exploration of blockchain technology. For many users, Reddit serves as a personalized news aggregator, technical support forum, entertainment source, and social network simultaneously. The platform's anonymous nature (though less so in recent years) encouraged candid sharing and discussion, though this has evolved with increased identity features. Reddit's influence extends far beyond its platform, with content regularly spreading to other social media and even influencing stock markets through coordinated community action. Despite its sometimes chaotic nature, Reddit remains one of the internet's most valuable repositories of human knowledge, experience, and conversation, where expertise and curiosity meet in millions of daily interactions.",
+    "size": "100MB",
+    "reviews": "24.8K",
+    "ratingAvg": 4.2,
+    "downloads": "7.9M",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 2800 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/3c/0f/14/3c0f142c417b47dbe680a064ccd12c9c.jpg",
+    "title": "Fitbit",
+    "companyName": "Google LLC",
+    "id": 23,
+    "description": "Fitbit pioneered the consumer fitness tracker market and has evolved into a comprehensive health and wellness platform that helps users understand and improve their physical condition through data-driven insights. The ecosystem combines wearable devices with a powerful mobile application that tracks steps, distance traveled, calories burned, active minutes, and floors climbed. Beyond basic activity metrics, Fitbit devices monitor heart rate continuously, providing valuable data about resting heart rate, cardio fitness score, and heart rate variability. Sleep tracking analyzes sleep stages (light, deep, REM) and provides a sleep score with personalized recommendations for improvement. The Exercise app automatically recognizes and records workouts like walks, runs, and sports, while GPS connectivity (on compatible models) maps routes and provides pace information. The Fitbit app serves as a centralized dashboard where users can view trends, set goals, participate in challenges with friends, and join communities for motivation. Female health tracking helps users log menstrual cycles and symptoms, while food logging enables monitoring nutrition intake with a extensive database of foods. Fitbit Premium subscription unlocks advanced analytics, wellness reports, guided programs, and hundreds of video workouts. The Smart Wake feature uses sleep stage analysis to wake users at an optimal time during a specified window, reducing grogginess. SpO2 monitoring tracks blood oxygen variation during sleep, potentially identifying breathing issues, while skin temperature sensors provide additional health context. Since its acquisition by Google, Fitbit has integrated with Google's health services while maintaining its focus on user privacy and data control. For many users, Fitbit has transformed abstract health goals into tangible, measurable objectives, creating awareness of activity patterns and providing the motivation needed to develop sustainable healthy habits through continuous feedback and community support.",
+    "size": "75MB",
+    "reviews": "22.9K",
+    "ratingAvg": 4.5,
+    "downloads": "7.2M",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 1350 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/12/96/0c/12960cb9b10214fc4e3cb601dc5f5e5a.jpg",
+    "title": "Tinder",
+    "companyName": "Match Group, LLC",
+    "id": 24,
+    "description": "Tinder transformed modern dating by introducing the simple, intuitive swipe interface that made discovering potential partners feel like a game rather than a chore. The platform's core mechanic—swiping right to like someone and left to pass—reduced the friction of online dating and appealed particularly to mobile-native younger generations. Profiles consist of photos, a brief bio, and connected Instagram and Spotify accounts that provide additional personality glimpses. The double opt-in system (where both users must swipe right to match) creates mutual interest before communication can begin, reducing unwanted messages. Tinder's algorithm considers factors like swipe patterns, message activity, profile completeness, and user preferences to surface potentially compatible profiles. The platform's Passport feature allows users to change their location and match with people anywhere in the world, valuable for travelers or those considering relocation. Tinder Gold and Platinum subscriptions offer premium features like seeing who has already liked you, unlimited likes, super likes for standout profiles, and boost to increase visibility. The recently introduced video chat feature enables virtual dates within the app before meeting in person. Tinder U creates a dedicated experience for college students by verifying university affiliation and highlighting campus-specific activity. Safety features include photo verification to confirm genuine profiles, integration with Noonlight for emergency services, and background checks in partnership with Garbo. The platform has expanded beyond casual dating with features looking for friends (Tinder Social) and business networking in some markets. Despite criticism about fostering superficial connections based primarily on appearance, Tinder has facilitated millions of relationships, friendships, and marriages worldwide. The platform's cultural impact extends beyond dating—it has influenced how people present themselves online, changed courtship norms, and created new vocabulary around digital romance. For many, Tinder serves as both entertainment and genuine connection tool, reflecting the complexities of modern relationships in a digital age.",
+    "size": "80MB",
+    "reviews": "26.7K",
+    "ratingAvg": 4.0,
+    "downloads": "8.5M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 270 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 630 }
+    ]
+  }
+]
