@@ -4,34 +4,30 @@ import ratingImg from '../../assets/icon-ratings.png';
 import reviewsImg from '../../assets/icon-review.png';
 import { Link, useParams } from 'react-router';
 import {
-  ResponsiveContainer,
-  BarChart,
-  Bar,
-  XAxis,
-  YAxis,
-  CartesianGrid,
-  Tooltip,
-  Legend
+  ResponsiveContainer, BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend
 } from 'recharts';
 
+// Promise Fetch 
 const AppsDetails = ({ fetchPromise }) => {
   const { id } = useParams();
   const appsId = parseInt(id);
 
   const AppDetails = use(fetchPromise);
+
+
   const appsDetails = AppDetails.find(singleApp => singleApp.id === appsId);
 
   const { title, reviews, size, ratingAvg, image, downloads, description, companyName, ratings } = appsDetails;
 
-  
+
   const [isInstalled, setIsInstalled] = useState(false);
 
-  
+
   useEffect(() => {
     const existingAppsList = JSON.parse(localStorage.getItem("installed")) || [];
     const alreadyInstalled = existingAppsList.some(app => app.id === appsDetails.id);
     if (alreadyInstalled) {
-      setIsInstalled(true); 
+      setIsInstalled(true);
     }
   }, [appsDetails.id]);
 
@@ -54,10 +50,12 @@ const AppsDetails = ({ fetchPromise }) => {
   };
 
   return (
-    <div className='py-16 bg-gray-100 space-y-16 px-12'>
+    <div className='py-5 md:py-16 bg-gray-100 space-y-16 px-5 md:px-12'>
       {/*  Top App Info Section */}
-      <div className='flex gap-16'>
-        <img src={image} alt="" className='w-[300px] rounded-3xl' />
+      <div className='flex flex-col md:flex-row gap-16'>
+        <div className='flex justify-center items-center md:pt-4'>
+          <img src={image} alt="" className='w-[300px] rounded-3xl' />
+        </div>
         <div className='flex-1'>
           <h1 className='text-xl md:text-2xl lg:text-3xl font-bold'>{title}</h1>
           <p className='text-lg font-medium pt-4'>
@@ -84,7 +82,7 @@ const AppsDetails = ({ fetchPromise }) => {
             </div>
           </div>
 
-          {/* 🔹 Install Button */}
+          {/* Install Button */}
           <div className='mt-6'>
             <Link to="">
               <button
@@ -118,10 +116,11 @@ const AppsDetails = ({ fetchPromise }) => {
       </div>
 
       {/* Description Section */}
-      <div>
-        <p className='text-gray-500'>
-          <span className='text-lg text-gray-700 font-medium'>Description:</span> {description}
-        </p>
+      <div className=''>
+        <div className='text-gray-500 space-y-2'>
+          <h3 className='text-xl text-gray-700 font-bold'>Description:</h3> 
+          <p>{description}</p>
+        </div>
       </div>
     </div>
   );

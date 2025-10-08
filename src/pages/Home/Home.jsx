@@ -3,12 +3,12 @@ import Banner from '../Banner/Banner';
 import TrendingApps from '../TrendingApps/TrendingApps';
 
 
-const Home = ({fetchPromise}) => {
+const Home = () => {
     
     return (
         <div>
             <Banner></Banner>
-            <TrendingApps fetchPromise={fetchPromise}></TrendingApps>
+            <TrendingApps></TrendingApps>
         </div>
     );
 };

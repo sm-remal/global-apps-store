@@ -8,12 +8,10 @@ import Apps from '../pages/Apps/Apps';
 import Installation from '../pages/Installation/Installation';
 import AppsDetails from '../pages/AppsDetails/AppsDetails';
 import Spinner from '../components/Spinner/Spinner';
+import ErrorAppPage from '../pages/ErrorAppPage/ErrorAppPage';
 
-
-
+// Data fetch 
 const fetchPromise = fetch("../mobileApps.json").then(res => res.json())
-
-// console.log(fetchPromise)
 
 
 export const router = createBrowserRouter([
@@ -25,19 +23,16 @@ export const router = createBrowserRouter([
       {
         index: true,
         path: "/",
-        element: <Suspense fallback={<Spinner></Spinner>}>
-          <Home fetchPromise={fetchPromise}></Home>
-        </Suspense>
+        Component: Home,
       },
       {
         path: "apps",
-        element: <Suspense fallback={<Spinner></Spinner>}>
-          <Apps fetchPromise={fetchPromise}></Apps>
-        </Suspense>
+        Component: Apps,
       },
       {
         path: "apps/:id",
-        element: <Suspense>
+        errorElement: <ErrorAppPage></ErrorAppPage>,
+        element: <Suspense fallback={<Spinner></Spinner>}>
           <AppsDetails fetchPromise={fetchPromise}></AppsDetails>
         </Suspense>
       },

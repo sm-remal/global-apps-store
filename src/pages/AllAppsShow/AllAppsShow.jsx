@@ -4,14 +4,12 @@ import downloadIcon from '../../assets/icon-downloads.png'
 import { Link } from 'react-router';
 
 const AllAppsShow = ({ allApps }) => {
-    
+
     return (
         <Link to={`/apps/${allApps.id}`}>
             <div className="card bg-base-100 shadow-sm">
                 <figure className=''>
-                    <img
-                        src={allApps.image}
-                        alt="" className='w-[300px] h-[300px] rounded-3xl lg:mt-10 xl:mt-8' />
+                    <img src={allApps.image} alt="" className='w-[310px] md:w-[270px] 2xl:w-[330px] h-[270px] rounded-2xl mt-6 xl:mt-4' />
                 </figure>
                 <div className="card-body space-y-6">
                     <h2 className="card-title text-xl md:text-2xl 2xl:text-3xl">{allApps.title}</h2>
