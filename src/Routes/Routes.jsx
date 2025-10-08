@@ -7,6 +7,7 @@ import ErrorPage from '../pages/ErrorPage/ErrorPage';
 import Apps from '../pages/Apps/Apps';
 import Installation from '../pages/Installation/Installation';
 import AppsDetails from '../pages/AppsDetails/AppsDetails';
+import Spinner from '../components/Spinner/Spinner';
 
 
 
@@ -24,13 +25,13 @@ export const router = createBrowserRouter([
       {
         index: true,
         path: "/",
-        element: <Suspense fallback={<span>Loading...</span>}>
+        element: <Suspense fallback={<Spinner></Spinner>}>
           <Home fetchPromise={fetchPromise}></Home>
         </Suspense>
       },
       {
         path: "apps",
-        element: <Suspense>
+        element: <Suspense fallback={<Spinner></Spinner>}>
           <Apps fetchPromise={fetchPromise}></Apps>
         </Suspense>
       },
