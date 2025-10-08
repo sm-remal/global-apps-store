@@ -6,6 +6,7 @@ import Home from '../pages/Home/Home';
 import ErrorPage from '../pages/ErrorPage/ErrorPage';
 import Apps from '../pages/Apps/Apps';
 import Installation from '../pages/Installation/Installation';
+import AppsDetails from '../pages/AppsDetails/AppsDetails';
 
 
 
@@ -29,7 +30,15 @@ export const router = createBrowserRouter([
       },
       {
         path: "apps",
-        Component: Apps,
+        element: <Suspense>
+          <Apps fetchPromise={fetchPromise}></Apps>
+        </Suspense>
+      },
+      {
+        path: "apps/:id",
+        element: <Suspense>
+          <AppsDetails fetchPromise={fetchPromise}></AppsDetails>
+        </Suspense>
       },
       {
         path: "installation",

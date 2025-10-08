@@ -5,7 +5,7 @@ import { Link } from 'react-router';
 const TrendingApps = ({ fetchPromise }) => {
   const mobileApps = use(fetchPromise)
   const someApps = mobileApps.slice(0, 8);
-  console.log(someApps)
+  // console.log(someApps)
   return (
     <div className='py-14 bg-gray-100'>
       <div className='text-center space-y-5'>

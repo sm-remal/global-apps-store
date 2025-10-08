@@ -4,7 +4,7 @@ import ratingIcon from '../../assets/icon-ratings.png'
 import downloadIcon from '../../assets/icon-downloads.png'
 
 const TrendingAppsShow = ({ apps }) => {
-    console.log(apps)
+    // console.log(apps)
     return (
         <div className="card bg-base-100 shadow-sm">
             <figure className=''>
