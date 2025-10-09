@@ -3,6 +3,7 @@ import downloadImg from '../../assets/icon-downloads.png'
 import ratingImg from '../../assets/icon-ratings.png'
 import Spinner from '../../components/Spinner/Spinner';
 import useCustomHook from '../../Hooks/useCustomHook';
+import { toast } from 'react-toastify';
 
 const Installation = () => {
   const [appsInstall, setAppsInstall] = useState([]);
@@ -19,7 +20,7 @@ const Installation = () => {
     const updatedList = appsInstall.filter(app => app.id !== id);
     setAppsInstall(updatedList);
     localStorage.setItem("installed", JSON.stringify(updatedList));
-    alert("App successfully uninstalled!");
+    toast("❌🚮 App successfully uninstalled!");
   };
 
 
@@ -30,9 +31,9 @@ const Installation = () => {
     let sortedList = [...appsInstall];
 
     if (selectedOrder === 'asc') {
-      sortedList.sort((a, b) => parseFloat(a.size) - parseFloat(b.size));
+      sortedList.sort((a, b) => parseFloat(a.downloads) - parseFloat(b.downloads));
     } else if (selectedOrder === 'desc') {
-      sortedList.sort((a, b) => parseFloat(b.size) - parseFloat(a.size));
+      sortedList.sort((a, b) => parseFloat(b.downloads) - parseFloat(a.downloads));
     }
 
     setAppsInstall(sortedList);
@@ -52,13 +53,13 @@ const Installation = () => {
           Total Installed: {appsInstall.length}
         </span>
 
-        <label className="form-control w-full max-w-xs">
+        <label className="form-control w-full max-w-xs focus-within:outline-0 border-2 border-violet-600 rounded-sm">
           <select
             className="select select-bordered"
             value={sortOrder}
             onChange={handleSortChange}
           >
-            <option className='font-medium text-gray-500' value="none">Sort by Size</option>
+            <option className='font-medium text-gray-500' value="none">Sort by Downloads</option>
             <option className='font-medium text-gray-500' value="asc">Low → High</option>
             <option className='font-medium text-gray-500' value="desc">High → Low</option>
           </select>
@@ -71,7 +72,7 @@ const Installation = () => {
           <p className="text-center pt-10 text-gray-500 font-bold text-lg lg:text-3xl">No Installed Apps</p>
         ) : loading ? <Spinner /> : (
           appsInstall.map((app) => (
-            <div key={app.id} className="border border-gray-200 rounded-xl p-4 my-4 shadow-sm bg-white flex justify-between items-center hover:shadow-md transition">
+            <div key={app.id} className="border border-gray-200 rounded-xl p-4 my-4 shadow-sm bg-white flex justify-between items-center transition md:transform md:transition md:duration-300 md:hover:scale-101 md:hover:shadow-lg">
 
               <div className="flex gap-3 md:gap-6 items-center">
                 <img src={app.image} alt={app.title} className="w-[60px] md:w-[80px] h-[60px] md:h-[80px] object-cover rounded-lg"/>

@@ -12,8 +12,7 @@ const Nav = ({ items }) => {
             ? "bg-gradient-to-r from-violet-700  to-violet-500 text-white font-semibold" 
             : "hover:bg-gradient-to-r from-violet-700  to-violet-500 hover:text-white text-gray-800"
           }`
-        }
-      >
+        }>
         {items.name}
       </NavLink>
     </li>

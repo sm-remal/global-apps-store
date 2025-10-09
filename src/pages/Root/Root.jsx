@@ -1,8 +1,8 @@
 import React from 'react';
-import Home from '../Home/Home';
 import Navbar from '../../components/Navbar/Navbar';
 import { Outlet } from 'react-router';
 import Footer from '../../components/Footer/Footer';
+import { ToastContainer } from 'react-toastify';
 
 const Root = () => {
     return (
@@ -12,6 +12,7 @@ const Root = () => {
                 <Outlet></Outlet>
             </div>
             <Footer></Footer>
+            <ToastContainer position="top-center" />
         </div>
     );
 };

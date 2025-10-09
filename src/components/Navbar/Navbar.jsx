@@ -3,7 +3,7 @@ import Nav from '../Nav/Nav';
 import { Menu, X, Github } from 'lucide-react';
 import { Link } from 'react-router';
 import logoIcon from '../../assets/logo.png';
-
+ 
 const navigation = [
   { name: "Home", path: "/" },
   { name: "Apps", path: "/apps" },
@@ -46,7 +46,7 @@ const Navbar = () => {
         {links}
       </ul>
 
-      {/* GitHub Button */}
+      {/* Button */}
       <Link
         to="https://github.com/sm-remal"
         target="_blank"
@@ -59,16 +59,12 @@ const Navbar = () => {
 
       {/* Mobile Dropdown Menu */}
       <ul
-        className={`md:hidden absolute left-0 w-full bg-violet-600 text-white font-medium flex flex-col gap-3 py-5 px-6 rounded-b-2xl shadow-lg transform transition-all duration-500 ${
-          open ? "top-[70px] opacity-100" : "-top-[400px] opacity-0"
+        className={`md:hidden absolute left-0 w-full bg-violet-100 text-white font-medium flex flex-col gap-3 py-5 px-6 rounded-b-2xl shadow-lg transform transition-all duration-1000 ${
+          open ? "top-[65px] opacity-100" : "-top-[400px] opacity-0"
         }`}
       >
         {links}
-        <Link
-          to="https://github.com/sm-remal"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <Link to="https://github.com/sm-remal">
           <button className="flex items-center gap-2 justify-center w-full bg-gradient-to-r from-violet-800 to-violet-500 text-white py-2 rounded-md hover:from-violet-700 hover:to-violet-400 transition-all duration-300">
             <Github size={18} /> Contribute
           </button>

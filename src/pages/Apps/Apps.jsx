@@ -36,7 +36,7 @@ const Apps = () => {
                         <h3 className='text-lg md:text-xl lg:text-2xl font-semibold text-gray-700'>Apps Founds ({searchApps.length})</h3>
                     </div>
                     <div>
-                        <label className="input w-[290px]  md:mr-1 mt-5 md:mt-0">
+                        <label className="input w-[290px]  md:mr-1 mt-5 md:mt-0 focus-within:outline-0 border-2 border-violet-600">
                             <svg className="h-[1em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                                 <g
                                     strokeLinejoin="round"

@@ -2,10 +2,9 @@ import React, { use, useState, useEffect } from 'react';
 import downloadImg from '../../assets/icon-downloads.png';
 import ratingImg from '../../assets/icon-ratings.png';
 import reviewsImg from '../../assets/icon-review.png';
-import { Link, useParams } from 'react-router';
-import {
-  ResponsiveContainer, BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend
-} from 'recharts';
+import { Link, useNavigate, useParams } from 'react-router';
+import { ResponsiveContainer, BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend } from 'recharts';
+import { toast } from 'react-toastify';
 
 // Promise Fetch 
 const AppsDetails = ({ fetchPromise }) => {
@@ -31,13 +30,14 @@ const AppsDetails = ({ fetchPromise }) => {
     }
   }, [appsDetails.id]);
 
-
+  //For Go-Back Button 
+  const navigate = useNavigate();
   const handleInstall = () => {
     const existingAppsList = JSON.parse(localStorage.getItem("installed")) || [];
     const isDuplicate = existingAppsList.some(app => app.id === appsDetails.id);
 
     if (isDuplicate) {
-      alert(`${title} is already installed!`);
+      toast(`⚠️ ${title} is already installed!`);
       setIsInstalled(true);
       return;
     }
@@ -45,7 +45,7 @@ const AppsDetails = ({ fetchPromise }) => {
     const updatedAppsList = [...existingAppsList, appsDetails];
     localStorage.setItem("installed", JSON.stringify(updatedAppsList));
 
-    alert(` ${title} installed successfully!`);
+    toast(`🎯🎉 ${title} installed successfully!`);
     setIsInstalled(true);
   };
 
@@ -83,7 +83,7 @@ const AppsDetails = ({ fetchPromise }) => {
           </div>
 
           {/* Install Button */}
-          <div className='mt-6'>
+          <div className='mt-6 flex gap-3'>
             <Link to="">
               <button
                 onClick={handleInstall}
@@ -94,6 +94,9 @@ const AppsDetails = ({ fetchPromise }) => {
                 {isInstalled ? 'Installed' : `Install Now (${size})`}
               </button>
             </Link>
+
+            <button onClick={() => navigate(-1)} className="btn border-2 border-violet-700 text-violet-700">Go Back</button>
+
           </div>
         </div>
       </div>
@@ -118,7 +121,7 @@ const AppsDetails = ({ fetchPromise }) => {
       {/* Description Section */}
       <div className=''>
         <div className='text-gray-500 space-y-2'>
-          <h3 className='text-xl text-gray-700 font-bold'>Description:</h3> 
+          <h3 className='text-xl text-gray-700 font-bold'>Description:</h3>
           <p>{description}</p>
         </div>
       </div>

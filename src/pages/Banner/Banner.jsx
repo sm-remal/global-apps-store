@@ -8,7 +8,7 @@ const Banner = () => {
     return (
         <div className='text-center pt-8 md:pt-16 bg-gray-100'>
             <div className='space-y-5'>
-                <h1 className='text-3xl lg:text-5xl font-bold'>We Build <br /><span className='text-violet-600'>Productive</span> Apps</h1>
+                <h1 className='text-3xl lg:text-5xl font-bold leading-15'>We Build <br /><span className='text-violet-600'>Productive</span> Apps</h1>
                 <p className='text-gray-500'>At Global App Store we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. <br class="hidden sm:block" /> Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
                 <div className='flex gap-2 md:gap-4 justify-center pt-4'>
                     <Link to="https://play.google.com/store/games?hl=en">
