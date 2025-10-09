@@ -18,7 +18,7 @@ const Navbar = () => {
 
   return (
     <nav className="w-full flex justify-between items-center px-5 py-3 border-b border-gray-200 bg-white sticky top-0 z-50 shadow-sm">
-      {/* Left Section (Logo + Mobile Menu Button) */}
+      
       <div className="flex items-center gap-3">
         {/* Mobile Menu Toggle */}
         <button
@@ -52,7 +52,7 @@ const Navbar = () => {
         target="_blank"
         rel="noopener noreferrer"
       >
-        <button className="hidden md:flex items-center gap-2 px-4 py-2 rounded-lg bg-gradient-to-r from-violet-700 to-violet-500 text-white hover:from-violet-600 hover:to-violet-400 transition-all duration-300">
+        <button className="hidden md:flex items-center gap-2 px-4 py-2 rounded-lg bg-gradient-to-r from-violet-700 to-violet-500 text-white hover:from-violet-600 hover:to-violet-400 transition-all duration-300 cursor-pointer">
           <Github size={18} /> Contribute
         </button>
       </Link>

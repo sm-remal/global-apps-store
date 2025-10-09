@@ -9,7 +9,7 @@ const TrendingApps = () => {
   const someApps = allAppsData.slice(0, 8);
 
   return (
-    <div className='py-14 bg-gray-100'>
+    <div className='py-14 bg-gray-100 px-4'>
       <div className='text-center space-y-5'>
         <h3 className='text-lg md:text-2xl lg:text-3xl font-bold'>Trending Apps</h3>
         <span className='text-gray-500'>Explore All Trending Apps on the Market developed by us</span>

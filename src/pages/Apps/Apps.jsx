@@ -25,14 +25,14 @@ const Apps = () => {
     }, [appsData]);
 
     return (
-        <div className=''>
-            <div className='text-center space-y-4 px-2 mt-10'>
+        loading ? <Spinner/> : (<div className='bg-gray-100 min-h-screen'>
+            <div className='text-center space-y-4 px-2 pt-10'>
                 <h2 className='text-3xl font-bold text-gray-700'>Our All Applications</h2>
                 <p className='text-gray-500'>Explore All Apps on the Market developed by us. We code for Millions</p>
             </div>
-            <div className='mt-5 md:mt-10'>
+            <div className='mt-5 md:mt-10 px-4'>
                 <div className='flex flex-col md:flex-row justify-between items-center'>
-                    <div className='md:px-2'>
+                    <div className='pl-1'>
                         <h3 className='text-lg md:text-xl lg:text-2xl font-semibold text-gray-700'>Apps Founds ({searchApps.length})</h3>
                     </div>
                     <div>
@@ -54,21 +54,24 @@ const Apps = () => {
                     </div>
                 </div>
                {
-                  loading ? (<Spinner/>) : loader ? (<Spinner/>) : (  <div className='grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-6 my-5'>
+                  loading ? (<Spinner/>) : loader ? (<Spinner/>) : (  <div className='grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-6 py-5'>
                     {
                         searchApps.length > 0 ? (
                             searchApps.map(allApps => (
                                 <AllAppsShow key={allApps.id} allApps={allApps} />
                             ))
                         ) : (
-                            <p className='col-span-full text-center text-gray-500 text-lg lg:text-3xl font-medium'>No App Found</p>
+                            <div className='col-span-full text-center space-y-10'>
+                                <p className='col-span-full text-center text-gray-500 text-lg lg:text-3xl font-medium'>No App Found</p>
+                            <button onClick={() => setSearch("")} className='btn bg-gradient-to-r from-violet-700 to-violet-500 text-white'> Show All Apps</button>
+                            </div>
                         )
                     }
                 </div> )
                }
 
             </div>
-        </div>
+        </div>)
     );
 };
 

@@ -5,6 +5,7 @@ import hero from '../../assets/hero.png'
 import { Link } from 'react-router';
 
 const Banner = () => {
+
     return (
         <div className='text-center pt-8 md:pt-16 bg-gray-100'>
             <div className='space-y-5'>
@@ -12,13 +13,13 @@ const Banner = () => {
                 <p className='text-gray-500'>At Global App Store we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. <br class="hidden sm:block" /> Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
                 <div className='flex gap-2 md:gap-4 justify-center pt-4'>
                     <Link to="https://play.google.com/store/games?hl=en">
-                        <div className='flex gap-2 border-1 border-gray-300 px-3 py-2 bg-white shadow-xs rounded-sm'>
+                        <div className='flex gap-2 items-center border-1 border-gray-300 px-3 py-2 bg-white shadow-xs rounded-sm'>
                             <img src={googleStore} alt="" className='w-[30px] h-[30px]' />
                             <p className='font-semibold text-gray-600'>Google Play Store</p>
                         </div>
                     </Link>
                     <Link to="https://www.apple.com/app-store/">
-                        <div className='flex gap-2 border-1 border-gray-300 px-4 py-2 rounded-sm bg-white shadow-xs'>
+                        <div className='flex gap-2 items-center border-1 border-gray-300 px-4 py-2 rounded-sm bg-white shadow-xs'>
                             <img src={appStore} alt="" className='w-[30px] h-[30px]' />
                             <p className='font-semibold text-gray-600'>App Store</p>
                         </div>
@@ -48,8 +49,7 @@ const Banner = () => {
                     </div>
                 </div>
             </div>
-        </div>
-    );
+        </div>)
 };
 
 export default Banner;

@@ -9,10 +9,10 @@ const AllAppsShow = ({ allApps }) => {
         <Link to={`/apps/${allApps.id}`}>
             <div className="card bg-base-100 shadow-sm md:transform md:transition md:duration-300 md:hover:scale-103 md:hover:shadow-xl">
                 <figure className=''>
-                    <img src={allApps.image} alt="" className='w-[310px] md:w-[270px] 2xl:w-[330px] h-[270px] rounded-2xl mt-6 xl:mt-4' />
+                    <img src={allApps.image} alt="" className='w-[310px] md:w-[260px] 2xl:w-[325px] h-[270px] rounded-2xl mt-6 xl:mt-4' />
                 </figure>
                 <div className="card-body space-y-6">
-                    <h2 className="card-title text-xl md:text-2xl 2xl:text-3xl">{allApps.title}</h2>
+                    <h2 className="card-title text-xl md:text-xl 2xl:text-2xl">{allApps.title}</h2>
                     <div className='flex justify-between items-center'>
                         <div className='border-1 border-green-300 bg-green-100 px-3 py-1 flex gap-2 items-center rounded-sm'>
                             <img src={downloadIcon} alt="" className='w-[20px] h-[20px]' />
