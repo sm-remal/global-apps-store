@@ -36,16 +36,16 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](src/assets/screenshot/homePage.png)
+![Home Page](./src/assets/screenshot/homePage.png)
 
 ### 📱 All App
-![App Page](src/assets/screenshot/apps.png)
+![App Page](./src/assets/screenshot/apps.png)
 
 ### 🌟 App View Section
-![Review Section](src/assets/screenshot/appView.png)
+![Review Section](./src/assets/screenshot/appView.png)
 
 ### ✅ Installation 
-![App Install Page](src/assets/screenshot/install.PNG)
+![App Install Page](./src/assets/screenshot/install.PNG)
 
 
 ---
