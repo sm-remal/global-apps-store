@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Footer = () => {
-  return (
+  return ( 
     <footer className=" sm:footer-horizontal flex flex-col md:flex-row gap-5 md:gap-10 bg-gray-900 text-base-content p-10">
       <div className='flex-1 max-w-[500px]'>
         <h3 className="footer-title text-white">Discover MyApp</h3>

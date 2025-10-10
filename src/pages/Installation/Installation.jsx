@@ -17,10 +17,11 @@ const Installation = () => {
 
 
   const handleUninstall = (id) => {
+    const appToUninstall = appsInstall.find(app => app.id === id);
     const updatedList = appsInstall.filter(app => app.id !== id);
     setAppsInstall(updatedList);
     localStorage.setItem("installed", JSON.stringify(updatedList));
-    toast("❌ App successfully uninstalled!");
+    toast(`❌ ${appToUninstall.title} successfully uninstalled!`);
   };
 
 
