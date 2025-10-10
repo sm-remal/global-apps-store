@@ -9,7 +9,7 @@ import { toast } from 'react-toastify';
 // Promise Fetch 
 const AppsDetails = ({ fetchPromise }) => {
   const { id } = useParams();
-  const appsId = parseInt(id);
+  const appsId = Number(id);
 
   const AppDetails = use(fetchPromise);
 
